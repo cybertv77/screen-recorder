@@ -28,3 +28,6 @@ while True:
     captured_video.write(img_final)
     if cv2.waitKey(10) == ord('q'):
         break
+        
+    
+#   © CYBERX TV PRODUCTION 2021

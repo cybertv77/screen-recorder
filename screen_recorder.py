@@ -30,4 +30,4 @@ while True:
         break
         
     
-#   © CYBERX TV PRODUCTION 2021
+#    © CYBERX TV PRODUCTION 2021
